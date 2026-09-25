@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<!--
+
 **rakshitha11ramesh/rakshitha11ramesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: .contact this mail..
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
